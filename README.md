@@ -3,10 +3,10 @@
 ## Quick Start  ( Recommand run code under virtual env )
 
 ```bash
-git clone https://github.com/as183789043/Django-Simple_Blog.git
-cd Django-Simple_Blog
+git clone https://github.com/as183789043/Django-real-time-road-images.git
+cd Django-real-time-road-images
 pip install -r requirements.txt
-cd mblog
+cd stramlit_tv
 python .\manage.py runserver
 ```
 
